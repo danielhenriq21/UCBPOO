@@ -13,3 +13,7 @@ public class Main {
         System.out.println("Dividir: " + calc.numA + " / " + calc.numB + " = " + calc.dividir());
     }
 }
+
+// git config --global user.name NomeUsuarioGit
+// git config --global user.email EmailUsuarioGit
+
