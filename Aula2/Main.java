@@ -14,6 +14,13 @@ public class Main {
     }
 }
 
+// Passo a Passo
+// 1 - github: Criar repositório git
+// 2 - cmd: git clone https://github.com/danielhenriq21/UCBPOO.git na pasta que desejar
+// 3 - cmd: entrar na pasta 
+// 4 - cmd: . code
+// 5 - vscode: Criar pasta e arquivo .java
+
 // git config --global user.name NomeUsuarioGit
 // git config --global user.email EmailUsuarioGit
 
