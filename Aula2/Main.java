@@ -24,3 +24,6 @@ public class Main {
 // git config --global user.name NomeUsuarioGit
 // git config --global user.email EmailUsuarioGit
 
+// Clonar repositório
+// Copia url github > code > copiar url > cmd > git clone {URL que copiou}
+// Abrir pasta entrar na pasta cmd > UCBPOO > . code
